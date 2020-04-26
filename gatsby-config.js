@@ -2,7 +2,7 @@ require("dotenv").config();
 
 module.exports = {
   siteMetadata: {
-    siteName: 'My Shop',
+    siteName: 'Salvatorica',
   },
   plugins: [
     'gatsby-plugin-sass',
@@ -14,7 +14,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-snipcart',
       options: {
-        apiKey: 'OWE3MmZmMjQtNTk3Yi00OThhLWEwMmUtZDY4ZWM4NzIwYzZiNjM2NjM0Mzc1NzE0MTUwNzI1',
+        apiKey: 'ZWZjY2UyNGQtYmExZi00OGEzLWExN2QtODU4OGMxYTZlYzI0NjM3MjM0ODYwMjMzNzA0NzEx',
         autopop: true
       }
     },
